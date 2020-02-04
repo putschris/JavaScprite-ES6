@@ -1,0 +1,33 @@
+**Aprendizado ES6**
+
+Linguagem de tipagem fraca e dinamica:
+-Significa que não há verificações em todas as operações da linguagem!
+
+Funções de primeira clsse e ordem maior:
+-Significa que funções pode ser atribuida a uma variável ou estrutura de dado!
+E pode ser passada por argumentos e até retornar outras funções.
+
+Closure:
+-Conhecido como escopo léxico!
+
+Currying:
+- É a técnica de transforma uma função com muitos parametros, em apena uma função
+que recebe um parametro.
+
+Hoisting:
+- Significa levantar ou suspender algo, é um comportamento que ocorre no
+JavaScript em declarações de variáveis e funções! São elevadas no escopo em que
+estão! 
+
+Hoisting-Variável:
+-Só eleva a sua criação, ou seja, a criação da variável! E em sua atribuição!
+
+Hoisting-Função:
+-Só elevada ao topo como um todo!
+
+
+Imutabilidade:
+-É aquilo que não vai mudar! Você precisa criar um novo caso queira inserir ou
+mudar algo!
+
+
